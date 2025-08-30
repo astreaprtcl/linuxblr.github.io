@@ -175,6 +175,9 @@ The Software Blogs:
     - tumblr@btrfs-unofficial
     - wafrn@btrfs-unofficial
   - accounts:
+    - tumblr@cat-unofficial
+    comment: indeed a catgirl (the unix kind as well as the fluffy kind)
+  - accounts:
     - tumblr@cool-retro-term-official
     comment: Terminal Emulator
   - accounts:
@@ -276,6 +279,9 @@ The Software Blogs:
     comment: doesn't post about linux much, but I'm putting it here until we get regex-official
   - accounts:
     - tumblr@river-official
+  - accounts:
+    - tumblr@sha512sum-official
+    comment: d99e14945de010f6b8c41eb990db25cd6563b49ec04aa6414d187897bad0441c6129af66dac76b1f65451ff999fdcd7bc19a8be779d34a773adff170140c251e
   - accounts:
     - tumblr@steamvr-official
     comment: est. 2025-04-25
